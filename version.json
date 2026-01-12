@@ -1,0 +1,20 @@
+{
+    "version": "9.5",
+    "build": "2024122910",
+    "releaseDate": "2024-12-29",
+    "changelog": [
+        "🔥 Version 9.5 - CPU MONITOR OVERHAUL",
+        "",
+        "✅ MONITOR FIX: VISIBILITY",
+        "   - Switched to Application API (PLTA) for server listing",
+        "   - Now detects ALL servers on panel (not just admin's)",
+        "",
+        "✅ MONITOR REPORTING",
+        "   - Shows 'Servers Found' vs 'Access Access Denied'",
+        "   - Helps debug permission issues",
+        "",
+        "✅ SAFETY & STABILITY (from v9.4)"
+    ],
+    "downloadUrl": "https://raw.githubusercontent.com/NinoNeoxus/schnuffelll-bot/main/latest.zip",
+    "minVersion": "7.0"
+}
